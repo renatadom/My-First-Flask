@@ -11,9 +11,9 @@ JOBS = [
   },
   { 
     'id': 2,
-    'technique': 'Acrylic Painting on Board', #title
+    'technique': 'Acrylic Painting on Hardboard', #title
     'size': 'min 30x30 cm', #location
-    'price': 'min 150€  max 10000€' # salary
+    'price': 'min 150€' # salary
   },
   {
     'id': 3,
